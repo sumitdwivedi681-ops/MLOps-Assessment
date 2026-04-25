@@ -1,0 +1,10 @@
+2026-04-26 02:38:41,956 | INFO | Batch job started
+2026-04-26 02:38:41,956 | INFO | Input file: data.csv
+2026-04-26 02:38:41,957 | INFO | Config file: config.yaml
+2026-04-26 02:38:41,957 | INFO | Output metrics file: metrics.json
+2026-04-26 02:38:41,968 | INFO | Config loaded successfully: seed=42, window=5, version=v1
+2026-04-26 02:38:42,001 | INFO | Dataset loaded successfully with 10000 rows
+2026-04-26 02:38:42,007 | INFO | Signals computed successfully
+2026-04-26 02:38:42,008 | INFO | Rows excluded due to rolling window: 4
+2026-04-26 02:38:42,009 | INFO | Metrics written successfully: {'rows_processed': 9996, 'signal_rate': 0.497299, 'latency_ms': 77.19, 'version': 'v1'}
+2026-04-26 02:38:42,010 | INFO | Batch job completed successfully
